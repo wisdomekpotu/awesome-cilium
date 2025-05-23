@@ -1,1 +1,1 @@
-# everything-cilium
+# awesome-cilium
